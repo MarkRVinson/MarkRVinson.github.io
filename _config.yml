@@ -8,7 +8,8 @@ description: > # your text below (remove <br> elements if you don't need line br
 <br>
   <a href="https://scholar.google.com/citations?user=QMxU4nIAAAAJ&hl=en&oi=ao">Google Scholar Profile</a> 
 <br>
-  <a href="http://orcid.org/0000-0001-5256-9539"> <img src="images/ORCid.jpg?raw=true"/> </a> 
+  <a href="http://orcid.org/0000-0001-5256-9539"> 
+  <img src="images/ORCid.jpg?raw=true"/> </a> 
 <br>
   <a href="https://twitter.com/superiorliscous"> Twitter 
 
