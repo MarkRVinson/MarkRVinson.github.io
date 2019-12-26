@@ -6,7 +6,7 @@
 
 [Field Research]
 I have studied aquatic plants, invertebrates, and fish from caves, springs, rivers, lakes and wetlands throughout the world. 
-This graphic shows the locations I've sampled in Lake Superior over the past 11 years. 
+This graphic shows the locations I've sampled in Lake Superior over the past 11 years. <br>
 <img src="images/MVTrips.gif?raw=true"/>
 
 ---
