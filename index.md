@@ -12,7 +12,7 @@
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Published work](http://example.com/)
+[Publications](/pdf/2019-12-25_MV-Publications.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
