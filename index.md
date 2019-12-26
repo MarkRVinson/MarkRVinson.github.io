@@ -1,8 +1,8 @@
-## Portfolio
+## My Life
 
 ---
 
-### Category Name 1 
+### My Science 
 
 [Field Research](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
