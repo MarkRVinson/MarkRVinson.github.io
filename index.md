@@ -4,8 +4,10 @@
 
 ### My Science 
 
-[Field Research](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Field Research]
+I have studied aquatic plants, invertebrates, and fish from caves, springs, rivers, lakes and wetlands throughout the world. 
+This graphic shows the locations I've sampled in Lake Superior over the past 11 years. 
+<img src="images/MVTrips.gif?raw=true"/>
 
 ---
 [Data Analysis](/pdf/sample_presentation.pdf)
