@@ -1,4 +1,4 @@
-## My Life
+## A Little Bit About Me
 ---
 ### Field Research 
 I have studied aquatic plants, invertebrates, and fish from caves, springs, rivers, lakes and wetlands in deserts, jungles, mountains, and the arctic. I have collaborated with scientists throughout the United States, Canada, Pakistan, and Africa.
@@ -40,7 +40,7 @@ I find joy in chores and riding mountain bikes with my dog Kimber. Fat tire ridi
 <br>
 Kimber Vinson uncharacteristically relaxing<img src="images/KV2018.JPG?raw=true"/>
 
-KV and I out for a bike ride<img src="images/KV2019.jpg?raw=true"/>
+KV and I out for a bike ride after a beauty snowfall<img src="images/KV2019.jpg?raw=true"/>
 
 The cabin down by the river<img src="images/MV_Cabin2018.JPG?raw=true"/>
 
