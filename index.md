@@ -1,5 +1,3 @@
-## My Life
-
 ---
 ### Field Research <br>
 I have studied aquatic plants, invertebrates, and fish from caves, springs, rivers, lakes and wetlands in deserts, jungles, mountains, and the arctic. I have collaborated with scientists throughout the United States, Canada, Pakistan, and Africa. I am comfortable in uncomfortable places.  
