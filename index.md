@@ -13,7 +13,7 @@ Places I've collected fish in Lake Superior over the past 11 years. <br>
 ---
 ### Data Visualization 
 I enjoy making art with data. Data made more visually appealing is better understood and with understanding comes better decisions. 
-[<img src="images/ns_os_wtemps3b.png?raw=true"/>]
+<img src="images/ns_os_wtemps3b.png?raw=true"/>
 
 <img src="images/ns_Lengths_Cisco_Vhistogram.png?raw=true"/>
 
