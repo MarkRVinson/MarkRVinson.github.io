@@ -1,16 +1,14 @@
 ## My Life
 
 ---
-
-### My Science <br>
-Field Research
+### Field Research <br>
 I have studied aquatic plants, invertebrates, and fish from caves, springs, rivers, lakes and wetlands throughout the world. 
 
 This graphic shows the locations I've sampled in Lake Superior over the past 11 years. <br>
 <img src="images/MVTrips.gif?raw=true"/>
 
 ---
-[Data Analysis](/pdf/2019-12-26_LS-fish-status_trends.pdf) <br>
+### Data Visualization <br>
 <img src="images/ns_os_wtemps3b.png?raw=true"/>
 
 <img src="images/ns_Lengths_Cisco_Vhistogram.png?raw=true"/>
@@ -24,6 +22,8 @@ This graphic shows the locations I've sampled in Lake Superior over the past 11 
 <img src="images/Animated_ns_Age1_cisco_map_bars.gif?raw=true"/>
 
 <img src="images/Animated_CurrentYear_Catch_map.gif?raw=true"/>
+
+[A typical data talk, our 2019 Lake Superior fish survey results](/pdf/2019-12-26_LS-fish-status_trends.pdf) 
 
 ---
 [Publications](/pdf/2019-12-25_MV-Publications.pdf)
