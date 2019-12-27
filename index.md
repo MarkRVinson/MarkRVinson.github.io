@@ -50,7 +50,7 @@ This year's chickens<img src="images/Chickens2019.JPG?raw=true"/>
 
 Greenhouse<img src="images/Greenhouse2019.JPG?raw=true"/>
 
-Early summer bee hives<img src="images/Bees2019.JPG?raw=true"/>
+Early summer bee hives<img src="images/Bees2018.JPG?raw=true"/>
 
 Apple harvest that yielded ninety-four gallons of cider in 2019<img src="images/Apples2019.JPG?raw=true"/>
 
