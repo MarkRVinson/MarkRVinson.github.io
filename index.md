@@ -32,7 +32,7 @@ I enjoy making art with data. Data made more visually appealing is better unders
 ---
 
 ### Home life <br>
-When not doing science I do chores and ride mountain bikes with my dog Kimber. Fat tire riding in the snow is the best. 
+When not doing science I do chores and ride mountain bikes with my dog Kimber. Fat tire riding in the snow is the best. <br>
 <img src="images/KV2018.jpg?raw=true"/>
 
 <img src="images/KV2019.jpg?raw=true"/>
