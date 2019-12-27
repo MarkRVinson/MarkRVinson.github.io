@@ -2,9 +2,10 @@
 
 ---
 ### Field Research <br>
-I have studied aquatic plants, invertebrates, and fish from caves, springs, rivers, lakes and wetlands throughout the world. 
+I have studied aquatic plants, invertebrates, and fish from caves, springs, rivers, lakes and wetlands. I have undertaken a breadth of scientific research throughout my career with respect to regional, national, and international significance. I have collaborated with and mentored scientists and organized training courses and meetings throughout the United States, Canada, Pakistan, and Africa that led to advances in the field and provided managers with information used to make better decisions. 
+<img src="images/PakistanFall2008_1?raw=true"/> <br>
 
-This graphic shows the locations I've sampled in Lake Superior over the past 11 years. <br>
+Here's the places I've collected fish in Lake Superior over the past 11 years. <br>
 <img src="images/MVTrips.gif?raw=true"/>
 
 ---
