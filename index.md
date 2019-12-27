@@ -26,7 +26,7 @@ I enjoy making art with data. Data made more visually appealing is better unders
 [A typical data talk, our 2019 Lake Superior fish survey results](/pdf/2019-12-26_LS-fish-status_trends.pdf) 
 
 ---
-[Publications](/pdf/2019-12-25_MV-Publications.pdf)
+### [Publications] (/pdf/2019-12-25_MV-Publications.pdf) <br>
 <img src="images/MVpubs.png?raw=true"/>
 
 ---
