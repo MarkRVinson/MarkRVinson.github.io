@@ -3,7 +3,7 @@
 ### Field Research 
 I have studied aquatic plants, invertebrates, and fish from caves, springs, rivers, lakes and wetlands in deserts, jungles, mountains, and the arctic. I have collaborated with scientists throughout the United States, Canada, Pakistan, and Africa.
 I am comfortable in uncomfortable places.  
-<img src="images/IMG_0243.JPG?raw=true"/> <br>
+Yes, of course I ate most these. Along the Line of Control, Neelum Valley, Pakistan.<img src="images/IMG_0243.jpg?raw=true"/> <br>
 
 Places I've collected fish in Lake Superior over the past 11 years. <br>
 <img src="images/MVwork.gif?raw=true"/> [full screen view](images/MVwork.gif)
