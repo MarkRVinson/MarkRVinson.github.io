@@ -8,6 +8,8 @@ I am comfortable in uncomfortable places.
 Here's the places I've collected fish in Lake Superior over the past 11 years. <br>
 <img src="images/MVTrips.gif?raw=true"/>
 
+[A view into a Lake Superior fish survey](https://www.youtube.com/watch?v=VpuPjxWyU7w) <br>
+
 ---
 ### Data Visualization 
 I enjoy making art with data. Data made more visually appealing is better understood and with understanding comes better decisions. 
