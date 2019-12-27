@@ -27,7 +27,7 @@ This graphic shows the locations I've sampled in Lake Superior over the past 11 
 
 ---
 [Publications](/pdf/2019-12-25_MV-Publications.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/MVpubs.png?raw=true"/>
 
 ---
 
