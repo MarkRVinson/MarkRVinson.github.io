@@ -31,7 +31,7 @@ I enjoy making art with data. Data made more visually appealing is better unders
 
 ---
 ### Publications
-[A list of my papers](/pdf/2019-12-25_MV-Publications.pdf) <br>
+[A list of my papers](/pdf/2019-12-27_MV-Publications.pdf) <br>
 <img src="images/MVpubs.png?raw=true"/>
 
 ---
