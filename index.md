@@ -8,6 +8,7 @@ Here's the places I've collected fish in Lake Superior over the past 11 years. <
 
 ---
 ### Data Visualization <br>
+I enjoy making art with data. Data made more visually appealing is better understood and with understanding comes better decisions. 
 <img src="images/ns_os_wtemps3b.png?raw=true"/>
 
 <img src="images/ns_Lengths_Cisco_Vhistogram.png?raw=true"/>
@@ -30,13 +31,13 @@ Here's the places I've collected fish in Lake Superior over the past 11 years. <
 
 ---
 
-### Category Name 2
+### Home life <br>
+When not doing science I do chores and ride mountain bikes with my dog Kimber. Fat tire riding in the snow is the best. 
+<img src="images/KV2018.jpg?raw=true"/>
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+<img src="images/KV2019.jpg?raw=true"/>
+
+<img src="images/MVCabin2018.jpg?raw=true"/>
 
 ---
 
