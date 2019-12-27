@@ -6,7 +6,7 @@ I am comfortable in uncomfortable places.
 <img src="images/PakistanFall2008_1.jpg?raw=true"/> <br>
 
 Places I've collected fish in Lake Superior over the past 11 years. <br>
-<img src="images/MVTrips.gif?raw=true"/>
+<img src="images/MVwork.gif?raw=true"/>
 
 [A view into a Lake Superior fish survey](https://www.youtube.com/watch?v=VpuPjxWyU7w) <br>
 
