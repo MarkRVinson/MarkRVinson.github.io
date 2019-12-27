@@ -1,6 +1,7 @@
 ---
 ### Field Research 
-I have studied aquatic plants, invertebrates, and fish from caves, springs, rivers, lakes and wetlands in deserts, jungles, mountains, and the arctic. I have collaborated with scientists throughout the United States, Canada, Pakistan, and Africa. | I am comfortable in uncomfortable places.  
+I have studied aquatic plants, invertebrates, and fish from caves, springs, rivers, lakes and wetlands in deserts, jungles, mountains, and the arctic. I have collaborated with scientists throughout the United States, Canada, Pakistan, and Africa.
+I am comfortable in uncomfortable places.  
 <img src="images/PakistanFall2008_1.jpg?raw=true"/> <br>
 
 Here's the places I've collected fish in Lake Superior over the past 11 years. <br>
