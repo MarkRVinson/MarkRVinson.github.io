@@ -6,26 +6,26 @@ I am comfortable in uncomfortable places.
 <img src="images/PakistanFall2008_1.jpg?raw=true"/> <br>
 
 Places I've collected fish in Lake Superior over the past 11 years. <br>
-<img src="images/MVwork.gif?raw=true"/>
+<img src="images/MVwork.gif?raw=true"/> [full screen view](images/MVwork.gif)
 
 [A view into a Lake Superior fish survey](https://www.youtube.com/watch?v=VpuPjxWyU7w) <br>
 
 ---
 ### Data Visualization 
-I enjoy making art with data. Data made more visually appealing is better understood and with understanding comes better decisions. 
-<img src="images/ns_os_wtemps3b.png?raw=true"/>
+I enjoy making art with data. Data made more visually appealing is better understood and with understanding comes better decisions. These examples were done in R using ggplot. 
+<img src="images/ns_os_wtemps3b.png?raw=true"/> [full screen view](images/ns_os_wtemps3b.png)
 
-<img src="images/ns_Lengths_Cisco_Vhistogram.png?raw=true"/> [larger view](images/ns_Lengths_Cisco_Vhistogram.png)
+<img src="images/ns_Lengths_Cisco_Vhistogram.png?raw=true"/> [full screen view](images/ns_Lengths_Cisco_Vhistogram.png)
 
-<img src="images/ns_os_biomass_CurrentYear_sankey.png?raw=true"/>
+<img src="images/ns_os_biomass_CurrentYear_sankey.png?raw=true"/> [full screen view](images/ns_os_biomass_CurrentYear_sankey.png)
 
-<img src="images/ns_station_biomass_map_bars.png?raw=true"/>
+<img src="images/ns_station_biomass_map_bars.png?raw=true"/> [full screen view] (images/ns_station_biomass_map_bars.png)
 
-<img src="images/Animated_os_ann_biomass_map_bars.gif?raw=true"/>
+<img src="images/Animated_os_ann_biomass_map_bars.gif?raw=true"/> [full screen view](images/Animated_os_ann_biomass_map_bars.gif)
 
-<img src="images/Animated_ns_Age1_cisco_map_bars.gif?raw=true"/>
+<img src="images/Animated_ns_Age1_cisco_map_bars.gif?raw=true"/> [full screen view](images/Animated_ns_Age1_cisco_map_bars.gif)
 
-<img src="images/Animated_CurrentYear_Catch_map.gif?raw=true"/>
+<img src="images/Animated_CurrentYear_Catch_map.gif?raw=true"/> [full screen view](images/Animated_CurrentYear_Catch_map.gif)
 
 [A typical data talk, our 2019 Lake Superior fish survey results](/pdf/2019-12-26_LS-fish-status_trends.pdf) 
 
@@ -35,7 +35,6 @@ I enjoy making art with data. Data made more visually appealing is better unders
 <img src="images/MVpubs.png?raw=true"/>
 
 ---
-
 ### Home life 
 I find joy in chores and riding mountain bikes with my dog Kimber. Fat tire riding in the snow is the best. <br>
 <img src="images/KV2018.JPG?raw=true"/>
