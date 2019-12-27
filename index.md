@@ -19,7 +19,7 @@ I enjoy making art with data. Data made more visually appealing is better unders
 
 <img src="images/ns_os_biomass_CurrentYear_sankey.png?raw=true"/> [full screen view](images/ns_os_biomass_CurrentYear_sankey.png)
 
-<img src="images/ns_station_biomass_map_bars.png?raw=true"/> [full screen view] (images/ns_station_biomass_map_bars.png)
+<img src="images/ns_station_biomass_map_bars.png?raw=true"/> [full screen view](images/ns_station_biomass_map_bars.png)
 
 <img src="images/Animated_os_ann_biomass_map_bars.gif?raw=true"/> [full screen view](images/Animated_os_ann_biomass_map_bars.gif)
 
