@@ -36,15 +36,23 @@ I enjoy making art with data. Data made more visually appealing is better unders
 
 ---
 ### Home life 
-I find joy in chores and riding mountain bikes with my dog Kimber. Fat tire riding in the snow is the best. <br>
-Kimber Vinson<img src="images/KV2018.JPG?raw=true"/>
+I find joy in chores and riding mountain bikes with my dog Kimber. Fat tire riding in the snow is the best. <br> 
+<br>
+Kimber Vinson uncharacteristically relaxing<img src="images/KV2018.JPG?raw=true"/>
 
-<img src="images/KV2019.jpg?raw=true"/>
+KV and I out for a bike ride<img src="images/KV2019.jpg?raw=true"/>
 
-<img src="images/MV_Cabin2018.JPG?raw=true"/>
+The cabin down by the river<img src="images/MV_Cabin2018.JPG?raw=true"/>
 
-<img src="images/MV_Cabin2018.JPG?raw=true"/>
+The homestead<img src="images/Homestead2019.JPG?raw=true"/>
 
+This year's chickens<img src="images/Chickens2019.JPG?raw=true"/>
+
+Greenhouse<img src="images/Greenhouse2019.JPG?raw=true"/>
+
+Early summer bee hives<img src="images/Bees2019.JPG?raw=true"/>
+
+Apple harvest that yielded ninety-four gallons of cider in 2019<img src="images/Apples2019.JPG?raw=true"/>
 
 
 ---
