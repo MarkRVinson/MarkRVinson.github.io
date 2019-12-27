@@ -5,7 +5,7 @@ I have studied aquatic plants, invertebrates, and fish from caves, springs, rive
 I am comfortable in uncomfortable places.  
 <img src="images/PakistanFall2008_1.jpg?raw=true"/> <br>
 
-Here's the places I've collected fish in Lake Superior over the past 11 years. <br>
+Places I've collected fish in Lake Superior over the past 11 years. <br>
 <img src="images/MVTrips.gif?raw=true"/>
 
 [A view into a Lake Superior fish survey](https://www.youtube.com/watch?v=VpuPjxWyU7w) <br>
@@ -13,7 +13,7 @@ Here's the places I've collected fish in Lake Superior over the past 11 years. <
 ---
 ### Data Visualization 
 I enjoy making art with data. Data made more visually appealing is better understood and with understanding comes better decisions. 
-<img src="images/ns_os_wtemps3b.png?raw=true"/>
+[<img src="images/ns_os_wtemps3b.png?raw=true"/>]
 
 <img src="images/ns_Lengths_Cisco_Vhistogram.png?raw=true"/>
 
