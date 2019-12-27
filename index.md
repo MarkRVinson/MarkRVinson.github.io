@@ -37,11 +37,15 @@ I enjoy making art with data. Data made more visually appealing is better unders
 ---
 ### Home life 
 I find joy in chores and riding mountain bikes with my dog Kimber. Fat tire riding in the snow is the best. <br>
-<img src="images/KV2018.JPG?raw=true"/>
+Kimber Vinson<img src="images/KV2018.JPG?raw=true"/>
 
 <img src="images/KV2019.jpg?raw=true"/>
 
 <img src="images/MV_Cabin2018.JPG?raw=true"/>
+
+<img src="images/MV_Cabin2018.JPG?raw=true"/>
+
+
 
 ---
 
