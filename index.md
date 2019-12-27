@@ -11,7 +11,7 @@ This graphic shows the locations I've sampled in Lake Superior over the past 11 
 <img src="images/MVTrips.gif?raw=true"/>
 
 ---
-[Data Analysis](/pdf/sample_presentation.pdf)
+[Data Analysis](/pdf/sample_presentation.pdf) <br>
 <img src="images/ns_os_wtemps3b.png?raw=true"/>
 <img src="images/ns_Lengths_Cisco_Vhistogram.png?raw=true"/>
 <img src="images/ns_os_biomass_CurrentYear_sankey.png?raw=true"/>
