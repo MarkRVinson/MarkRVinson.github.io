@@ -6,6 +6,7 @@ I am comfortable in uncomfortable places.
 Yes, of course I ate most these. Along the Line of Control, Neelum Valley, Pakistan.<img src="images/IMG_0243.jpg?raw=true"/> <br>
 [full screen view](images/IMG_0243.jpg)
 <br>
+<br>
 Places I've collected fish in Lake Superior over the past 11 years. <br>
 <img src="images/MVwork.gif?raw=true"/> [full screen view](images/MVwork.gif)
 
