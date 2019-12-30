@@ -1,12 +1,6 @@
-# Me
+# A bit about me
 ---
-## Science
-  - ### Field Research
-  - ### Laboratory Work
-  - ### Data Visualization
-  - ### Publications
-## Home Life
----
+
 ### Field Research 
 I have studied aquatic plants, invertebrates, and fish from caves, springs, rivers, lakes and wetlands in deserts, jungles, mountains, and the arctic. I have collaborated with scientists and led scientific expeditions throughout the United States, Canada, Pakistan, and Africa. I am comfortable in uncomfortable places.  
 <br>
@@ -19,23 +13,14 @@ Lake Superior fish collections, color coded by year. <br>
 [A view into a Lake Superior fish survey](https://www.youtube.com/watch?v=VpuPjxWyU7w) <br>
 
 ---
-### Data Visualization 
-Atractive data, be it sensible data frames or pretty plots, is a way of life I aspire to. Visual appeal increases engagement which parlays into greater comprehension and better decisions. 
-<img src="images/ns_os_wtemps3b.png?raw=true"/> [full screen view](images/ns_os_wtemps3b.png)
+### Laboratory Work 
+Over my career I have processed or overrseen the processing of more than 35,00 benthic invertebrate, zooplankton, and fish stomach content samples and provided the results of these samples in hundreds of reports and presentations. I taught aquatic invertebrate biology at Utah State University. Stable istope sample preperation and fish aging also occur in my tool box. 
+<br>
+The BugLab, Utah State University, 1992-1008<br>
+<img src="images/BugLab.png?raw=true"/> [full screen view](images/BugLab.png)
 
-<img src="images/ns_Lengths_Cisco_Vhistogram.png?raw=true"/> [full screen view](images/ns_Lengths_Cisco_Vhistogram.png)
-
-<img src="images/ns_os_biomass_CurrentYear_sankey.png?raw=true"/> [full screen view](images/ns_os_biomass_CurrentYear_sankey.png)
-
-<img src="images/ns_station_biomass_map_bars.png?raw=true"/> [full screen view](images/ns_station_biomass_map_bars.png)
-
-<img src="images/Animated_ns_Age1_cisco_map_bars.gif?raw=true"/> [full screen view](images/Animated_ns_Age1_cisco_map_bars.gif)
-
-<img src="images/Animated_CurrentYear_Catch_map.gif?raw=true"/> [full screen view](images/Animated_CurrentYear_Catch_map.gif)
-
-<img src="images/LS_Lean-Siscowet-Diets.png?raw=true"/> [full screen view](LS_Lean-Siscowet-Diets.png)
-
-[A typical data talk, our 2019 Lake Superior fish survey results](/pdf/2019-12-26_LS-fish-status_trends.pdf) 
+Lake Superior Siscowet Lake Trout Siscowet cisco snack 8 July 2017, 62% of siscowet's body length
+<img src="images/LS_SiscowetCiscoSnack.jpg?raw=true"/> [full screen view](images/LS_SiscowetCiscoSnack.jpg)
 
 ---
 ### Data Visualization 
@@ -62,7 +47,7 @@ Atractive data, be it sensible data frames or pretty plots, is a way of life I a
 <img src="images/MVpubs.png?raw=true"/>
 
 ---
-## Home life 
+### Home life 
 I find joy in chores and mountain bike riding with my dog.  <br> 
 <br>
 Kimber Vinson uncharacteristically relaxing<img src="images/KV2018.JPG?raw=true"/>
