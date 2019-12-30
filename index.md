@@ -54,19 +54,19 @@ I find joy in chores and mountain bike riding with my dog.  <br>
 <br>
 [<img src="images/KV2018.JPG?raw=true"/>](images/KV2018.JPG) Kimber Vinson uncharacteristically relaxing 
 
-[<img src="images/KV2019.jpg?raw=true"/>]First tracks
+[<img src="images/KV2019.jpg?raw=true"/>](images/KV2019.jpg) First tracks
 
-[<img src="images/MV_Cabin2018.JPG?raw=true"/>]The cabin down by the river
+[<img src="images/MV_Cabin2018.JPG?raw=true"/>](images/MV_Cabin2018.JPG) The cabin down by the river
 
-[<img src="images/Homestead2019.JPG?raw=true"/>]The homestead
+[<img src="images/Homestead2019.JPG?raw=true"/>](images/Homestead2019.JPG) The homestead
 
-[<img src="images/Chickens2019.JPG?raw=true"/>]2019 chickens
+[<img src="images/Chickens2019.JPG?raw=true"/>](images/Chickens2019.JPG) 2019 chickens
 
-[<img src="images/Greenhouse2019.JPG?raw=true"/>]Greenhouse
+[<img src="images/Greenhouse2019.JPG?raw=true"/>](images/Greenhouse2019.JPG) Greenhouse
 
-[<img src="images/Bees2018.JPG?raw=true"/>]Early summer bee hives
+[<img src="images/Bees2018.JPG?raw=true"/>](images/Bees2018.JPG) Early summer bee hives
 
-[<img src="images/Apples2019.JPG?raw=true"/>]2019 Apple harvest that yielded ninety-four gallons of cider
+[<img src="images/Apples2019.JPG?raw=true"/>](images/Apples2019.JPG) 2019 Apple harvest that yielded ninety-four gallons of cider
 
 ---
 
