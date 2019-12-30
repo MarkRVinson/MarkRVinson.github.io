@@ -7,6 +7,7 @@ I have studied aquatic plants, invertebrates, and fish from caves, springs, rive
 <img src="images/IMG_0233.jpg?raw=true"/> 
 [full screen view](images/IMG_0233.jpg) Along the Line of Control, Neelum Valley, Pakistan.
 <br>
+<br>
 <img src="images/MVwork.gif?raw=true"/> 
 [full screen view](images/MVwork.gif) Lake Superior fish collections, color coded by year. 
 <br>
