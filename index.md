@@ -62,7 +62,7 @@ I find joy in chores and mountain bike riding with my dog.  <br>
 
 [<img src="images/Chickens2019.JPG?raw=true"/>](images/Chickens2019.JPG) 2019 chickens
 
-[<img src="images/Greenhouse2019.JPG?raw=true"/>](images/Greenhouse2019.JPG) Greenhouse
+[<img src="images/Greenhouse2019.JPG?raw=true"/>](images/Greenhouse2019.JPG) The greenhouse
 
 [<img src="images/Bees2018.JPG?raw=true"/>](images/Bees2018.JPG) Early summer bee hives
 
