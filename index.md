@@ -4,8 +4,8 @@
 ### Field Research 
 I have studied aquatic plants, invertebrates, and fish from caves, springs, rivers, lakes and wetlands in deserts, jungles, mountains, and the arctic. I have collaborated with scientists and led scientific expeditions throughout the United States, Canada, Pakistan, and Africa. I am comfortable in uncomfortable places.  
 <br>
-<img src="images/IMG_0233.jpg?raw=true"/> 
-[full screen view](images/IMG_0233.jpg) Along the Line of Control, Neelum Valley, Pakistan.
+<img src="images/FieldWork.png?raw=true"/> 
+[full screen view](images/FieldWork.png) Clockwise; Terrifying closed canopy jungle, Gabon, Africa. Slightly less terrifying open canopy jungle, Gabon, Africa. Prudoe Bay, Alaska. Neelum Valley, Pakistan. Beautiful child, Taobat, Pakistan. One of a hundred checkpoints along the Line of Control, Kashmir, Pakistan, there goes an afternoon or more. <br>
 <br>
 <br>
 <img src="images/MVwork.gif?raw=true"/> 
