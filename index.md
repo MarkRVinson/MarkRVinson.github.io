@@ -64,9 +64,9 @@ I find joy in chores and mountain bike riding with my dog.  <br>
 
 [<img src="images/Greenhouse2019.JPG?raw=true"/>](images/Greenhouse2019.JPG) The greenhouse
 
-[<img src="images/Bees2018.JPG?raw=true"/>](images/Bees2018.JPG) Early summer bee hives
+[<img src="images/Bees2018.JPG?raw=true"/>](images/Bees2018.JPG) Bee hives
 
-[<img src="images/Apples2019.JPG?raw=true"/>](images/Apples2019.JPG) 2019 Apple harvest that yielded ninety-four gallons of cider
+[<img src="images/Apples2019.JPG?raw=true"/>](images/Apples2019.JPG) 2019 apple harvest that yielded ninety-four gallons of cider
 
 ---
 
