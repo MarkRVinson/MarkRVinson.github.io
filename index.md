@@ -1,4 +1,4 @@
-# A bit about me
+# A bit more about me
 ---
 
 ### Field Research 
