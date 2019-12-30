@@ -4,8 +4,8 @@
 ### Field Research 
 I have studied aquatic plants, invertebrates, and fish from caves, springs, rivers, lakes and wetlands in deserts, jungles, mountains, and the arctic. I have collaborated with scientists and led scientific expeditions throughout the United States, Canada, Pakistan, and Africa. I am comfortable in uncomfortable places.  
 <br>
-
-[full screen view](images/IMG_0233.jpg)Along the Line of Control, Neelum Valley, Pakistan.<img src="images/IMG_0233.jpg?raw=true"/> <br>
+[full screen view](images/IMG_0233.jpg)
+Along the Line of Control, Neelum Valley, Pakistan.<img src="images/IMG_0233.jpg?raw=true"/> <br>
 
 <br>
 <img src="images/MVwork.gif?raw=true"/> [full screen view](images/MVwork.gif)
@@ -44,14 +44,15 @@ Atractive data, be it sensible data frames or pretty plots, is a way of life I a
 
 ---
 ### Publications
-[Publication list](/pdf/2019-12-27_MV-Publications.pdf) <br>
+
 <img src="images/MVpubs.png?raw=true"/>
+[Publication list](/pdf/2019-12-27_MV-Publications.pdf) <br>
 
 ---
 ### Home life 
 I find joy in chores and mountain bike riding with my dog.  <br> 
 <br>
-img src="images/KV2018.JPG?raw=true"/> Kimber Vinson uncharacteristically relaxing<
+<img src="images/KV2018.JPG?raw=true"/> Kimber Vinson uncharacteristically relaxing<
 
 <img src="images/KV2019.jpg?raw=true"/> First tracks
 
