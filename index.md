@@ -17,7 +17,7 @@ I have studied aquatic plants, invertebrates, and fish from caves, springs, rive
 ### Laboratory Work 
 I have processed or supervised the identification of more than 35,00 benthic invertebrate, zooplankton, and fish stomach content samples. I taught aquatic invertebrate taxonomy and biology at Utah State University. Stable istope sample preperation and fish aging are also present in my tool box. 
 <br>
-<img src="images/BugLab.png?raw=true"/> [full screen view](images/BugLab.png) 
+[<img src="images/BugLab.png?raw=true"/>](images/BugLab.png) 
 Images from the BugLab years at Utah State University, 1992-2008. Clockwise; Rio and I in Desolation Canyon, Green River. Typical lower Green River invertebrate sample. The BugLab circa 2003. Television interview with Doug Miller (SLC television personality). ~22,000 archived invertebrate samples. 
 <br>
 
@@ -25,21 +25,21 @@ Images from the BugLab years at Utah State University, 1992-2008. Clockwise; Rio
 ### Data Visualization 
 Atractive data, be it sensible data frames or pretty plots, is a way of life I aspire to. Visual appeal increases engagement which parlays into greater comprehension and better decisions. Here's a few recent examples I've done with [Caroline Rosinski](https://twitter.com/carolineroz24)
 
-<img src="images/ns_os_wtemps3b.png?raw=true"/> [full screen view](images/ns_os_wtemps3b.png)
+[<img src="images/ns_os_wtemps3b.png?raw=true"/>](images/ns_os_wtemps3b.png)
 
-<img src="images/ns_Lengths_Cisco_Vhistogram.png?raw=true"/> [full screen view](images/ns_Lengths_Cisco_Vhistogram.png)
+[<img src="images/ns_Lengths_Cisco_Vhistogram.png?raw=true"/>](images/ns_Lengths_Cisco_Vhistogram.png)
 
-<img src="images/ns_os_biomass_CurrentYear_sankey.png?raw=true"/> [full screen view](images/ns_os_biomass_CurrentYear_sankey.png)
+[<img src="images/ns_os_biomass_CurrentYear_sankey.png?raw=true"/>](images/ns_os_biomass_CurrentYear_sankey.png)
 
-<img src="images/ns_station_biomass_map_bars.png?raw=true"/> [full screen view](images/ns_station_biomass_map_bars.png)
+[<img src="images/ns_station_biomass_map_bars.png?raw=true"/>](images/ns_station_biomass_map_bars.png)
 
-<img src="images/Animated_ns_Age1_cisco_map_bars.gif?raw=true"/> [full screen view](images/Animated_ns_Age1_cisco_map_bars.gif)
+[<img src="images/Animated_ns_Age1_cisco_map_bars.gif?raw=true"/>](images/Animated_ns_Age1_cisco_map_bars.gif)
 
-<img src="images/Animated_CurrentYear_Catch_map.gif?raw=true"/> [full screen view](images/Animated_CurrentYear_Catch_map.gif)
+[<img src="images/Animated_CurrentYear_Catch_map.gif?raw=true"/>](images/Animated_CurrentYear_Catch_map.gif)
 
-<img src="images/LS_Lean-Siscowet-Diets.png?raw=true"/> [full screen view](images/LS_Lean-Siscowet-Diets.png)
+[<img src="images/LS_Lean-Siscowet-Diets.png?raw=true"/>](images/LS_Lean-Siscowet-Diets.png)
 
-[A typical data talk, our 2019 Lake Superior fish survey results](/pdf/2019-12-26_LS-fish-status_trends.pdf) 
+[A typical data talk, The Lake Superior Biological Station's 2019 Lake Superior fish survey results](/pdf/2019-12-26_LS-fish-status_trends.pdf) 
 
 ---
 ### Publications
@@ -52,21 +52,21 @@ Atractive data, be it sensible data frames or pretty plots, is a way of life I a
 ### Home life 
 I find joy in chores and mountain bike riding with my dog.  <br> 
 <br>
-<img src="images/KV2018.JPG?raw=true"/> Kimber Vinson uncharacteristically relaxing 
+[<img src="images/KV2018.JPG?raw=true"/>]Kimber Vinson uncharacteristically relaxing 
 
-<img src="images/KV2019.jpg?raw=true"/> First tracks
+[<img src="images/KV2019.jpg?raw=true"/>]First tracks
 
-<img src="images/MV_Cabin2018.JPG?raw=true"/> The cabin down by the river
+[<img src="images/MV_Cabin2018.JPG?raw=true"/>]The cabin down by the river
 
-<img src="images/Homestead2019.JPG?raw=true"/> The homestead
+[<img src="images/Homestead2019.JPG?raw=true"/>]The homestead
 
-<img src="images/Chickens2019.JPG?raw=true"/> 2019 chickens
+[<img src="images/Chickens2019.JPG?raw=true"/>]2019 chickens
 
-<img src="images/Greenhouse2019.JPG?raw=true"/> Greenhouse
+[<img src="images/Greenhouse2019.JPG?raw=true"/>]Greenhouse
 
-<img src="images/Bees2018.JPG?raw=true"/> Early summer bee hives
+[<img src="images/Bees2018.JPG?raw=true"/>]Early summer bee hives
 
-<img src="images/Apples2019.JPG?raw=true"/> 2019 Apple harvest that yielded ninety-four gallons of cider
+[<img src="images/Apples2019.JPG?raw=true"/>]2019 Apple harvest that yielded ninety-four gallons of cider
 
 ---
 
