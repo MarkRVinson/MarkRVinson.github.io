@@ -26,7 +26,7 @@ Images from the BugLab years at Utah State University, 1992-2008. Clockwise; Rio
 
 ---
 ### Data Visualization 
-Atractive data, be it sensible data frames or pretty plots, is a way of life I aspire to. Visual appeal increases engagement which parlays into greater comprehension and better decisions. Here's a few recent examples I've done with [Caroline Rosinski(https://twitter.com/carolineroz24)
+Atractive data, be it sensible data frames or pretty plots, is a way of life I aspire to. Visual appeal increases engagement which parlays into greater comprehension and better decisions. Here's a few recent examples I've done with [Caroline Rosinski](https://twitter.com/carolineroz24)
 
 <img src="images/ns_os_wtemps3b.png?raw=true"/> [full screen view](images/ns_os_wtemps3b.png)
 
