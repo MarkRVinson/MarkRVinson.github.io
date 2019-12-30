@@ -6,11 +6,11 @@ I have studied aquatic plants, invertebrates, and fish from caves, springs, rive
 <br>
 <img src="images/IMG_0233.jpg?raw=true"/> 
 [full screen view](images/IMG_0233.jpg) Along the Line of Control, Neelum Valley, Pakistan.
-
 <br>
-<img src="images/MVwork.gif?raw=true"/> [full screen view](images/MVwork.gif)
-Lake Superior fish collections, color coded by year. <br>
-
+<img src="images/MVwork.gif?raw=true"/> 
+[full screen view](images/MVwork.gif) Lake Superior fish collections, color coded by year. 
+<br>
+<br>
 [A view into a Lake Superior fish survey](https://www.youtube.com/watch?v=VpuPjxWyU7w) <br>
 
 ---
@@ -68,10 +68,7 @@ I find joy in chores and mountain bike riding with my dog.  <br>
 <img src="images/Bees2018.JPG?raw=true"/> Early summer bee hives
 
 <img src="images/Apples2019.JPG?raw=true"/> Apple harvest that yielded ninety-four gallons of cider in 2019
-
-
 ---
-
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
