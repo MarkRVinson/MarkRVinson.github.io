@@ -15,7 +15,7 @@ I have studied aquatic plants, invertebrates, and fish from caves, springs, rive
 
 ---
 ### Laboratory Work 
-I have processed or supervised the identification of more than 35,00 benthic invertebrate, zooplankton, and fish stomach content samples. I taught aquatic invertebrate taxonomy and biology at Utah State University. Stable istope sample preperation and fish aging are also present in my tool box. 
+I have processed or supervised the identification of more than 35,00 benthic invertebrate, zooplankton, and fish stomach content samples. I taught aquatic invertebrate taxonomy and biology at Utah State University. Stable istope sample preparation and fish aging are also present in my tool box. 
 <br>
 [<img src="images/BugLab.png?raw=true"/>](images/BugLab.png) 
 Images from the BugLab years at Utah State University, 1992-2008. Clockwise; Rio and I in Desolation Canyon, Green River. Typical lower Green River invertebrate sample. The BugLab circa 2003. Television interview with Doug Miller (SLC television personality). ~22,000 archived invertebrate samples. 
