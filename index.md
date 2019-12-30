@@ -8,7 +8,7 @@ I have studied aquatic plants, invertebrates, and fish from caves, springs, rive
 [full screen view](images/FieldWork.png) Clockwise; Terrifying closed canopy jungle, Gabon, Africa. Slightly less terrifying open canopy jungle, Gabon, Africa. Prudoe Bay, Alaska. Neelum Valley, Pakistan. Beautiful child, Taobat, Pakistan. One of a hundred checkpoints along the Line of Control, Kashmir, Pakistan, there goes an afternoon or more. <br>
 <br>
 <img src="images/FieldFood.png?raw=true"/> 
-[full screen view](images/FieldFood.png) Clockwise; Fish head soup and plantains and typical Gabon, Africa restaurant. French pastry shop at a Shell Oil camp, Gabon, Africa. Pastry shop, Kel, Pakistan. Spinach and leeks with naan, big mistake eating the cucumber sauce, Muzaffarabad, Pakistan. Goat party preperation, Taobat, Pakistan. <br>
+[full screen view](images/FieldFood.png) Clockwise; Fish head soup and plantains and typical restaurant scene near Gamba, Gabon, Africa. French pastry shop at Yenzi Shell Oil Camp near the border of Gabon and the Republic of the Congo. Pastry shop in Kel, Pakistan. Spinach and leeks with naan near Muzaffarabad, Pakistan. A big mistake eating the cucumber sauce. Goat party preperation at Taobat, Pakistan at the end of the road in the Neelum Valley, Kashmir. <br>
 <br>
 <img src="images/MVwork.gif?raw=true"/> 
 [full screen view](images/MVwork.gif) Lake Superior fish collections, color coded by year. 
@@ -18,7 +18,7 @@ I have studied aquatic plants, invertebrates, and fish from caves, springs, rive
 
 ---
 ### Laboratory Work 
-I have processed or overrseen the identification of more than 35,00 benthic invertebrate, zooplankton, and fish stomach content samples. I taught aquatic invertebrate biology at Utah State University. Stable istope sample preperation and fish aging are also present in my tool box. 
+I have processed or supervised the identification of more than 35,00 benthic invertebrate, zooplankton, and fish stomach content samples. I taught aquatic invertebrate taxonomy and biology at Utah State University. Stable istope sample preperation and fish aging are also present in my tool box. 
 <br>
 <img src="images/BugLab.png?raw=true"/> [full screen view](images/BugLab.png) 
 Images from the BugLab years at Utah State University, 1992-2008. Clockwise; Rio and I in Desolation Canyon, Green River. Typical lower Green River invertebrate sample. The BugLab circa 2003. Television interview with Doug Miller (SLC television personality). ~22,000 archived invertebrate samples. <br>
