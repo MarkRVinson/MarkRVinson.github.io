@@ -4,11 +4,13 @@
 ### Field Research 
 I have studied aquatic plants, invertebrates, and fish from caves, springs, rivers, lakes and wetlands in deserts, jungles, mountains, and the arctic. I have collaborated with scientists and led scientific expeditions throughout the United States, Canada, Pakistan, and Africa. I am comfortable in uncomfortable places.  
 <br>
-Along the Line of Control, Neelum Valley, Pakistan.<img src="images/IMG_0233.jpg?raw=true"/> <br>
+
 [full screen view](images/IMG_0233.jpg)
+Along the Line of Control, Neelum Valley, Pakistan.<img src="images/IMG_0233.jpg?raw=true"/> <br>
+
 <br>
-Lake Superior fish collections, color coded by year. <br>
 <img src="images/MVwork.gif?raw=true"/> [full screen view](images/MVwork.gif)
+Lake Superior fish collections, color coded by year. <br>
 
 [A view into a Lake Superior fish survey](https://www.youtube.com/watch?v=VpuPjxWyU7w) <br>
 
@@ -16,8 +18,7 @@ Lake Superior fish collections, color coded by year. <br>
 ### Laboratory Work 
 I have processed or overrseen the processing of more than 35,00 benthic invertebrate, zooplankton, and fish stomach content samples. I taught aquatic invertebrate biology at Utah State University. Stable istope sample preperation and fish aging are also present in my tool box. 
 <br>
-
-<img src="images/BugLab.png?raw=true"/> [full screen view](images/BugLab.png) <br>
+<img src="images/BugLab.png?raw=true"/> [full screen view](images/BugLab.png) 
 The BugLab, Utah State University, 1992-2008. Clockwise; Rio and I Desolation Canyon, Green River. Typical Green River invertebrate sample. The BugLab circa 2003. Doug Miller television interview 2005. ~22,000 archived invertebrate samples. <br>
 
 <img src="images/LS_SiscowetCiscoSnack.jpg?raw=true"/> [full screen view](images/LS_SiscowetCiscoSnack.jpg)
@@ -51,21 +52,21 @@ Atractive data, be it sensible data frames or pretty plots, is a way of life I a
 ### Home life 
 I find joy in chores and mountain bike riding with my dog.  <br> 
 <br>
-Kimber Vinson uncharacteristically relaxing<img src="images/KV2018.JPG?raw=true"/>
+img src="images/KV2018.JPG?raw=true"/> Kimber Vinson uncharacteristically relaxing<
 
-First tracks<img src="images/KV2019.jpg?raw=true"/>
+<img src="images/KV2019.jpg?raw=true"/> First tracks
 
-The cabin down by the river<img src="images/MV_Cabin2018.JPG?raw=true"/>
+<img src="images/MV_Cabin2018.JPG?raw=true"/> The cabin down by the river
 
-The homestead<img src="images/Homestead2019.JPG?raw=true"/>
+<img src="images/Homestead2019.JPG?raw=true"/> The homestead
 
-This year's chickens<img src="images/Chickens2019.JPG?raw=true"/>
+<img src="images/Chickens2019.JPG?raw=true"/> 2019 chickens
 
-Greenhouse<img src="images/Greenhouse2019.JPG?raw=true"/>
+<img src="images/Greenhouse2019.JPG?raw=true"/> Greenhouse
 
-Early summer bee hives<img src="images/Bees2018.JPG?raw=true"/>
+<img src="images/Bees2018.JPG?raw=true"/> Early summer bee hives
 
-Apple harvest that yielded ninety-four gallons of cider in 2019<img src="images/Apples2019.JPG?raw=true"/>
+<img src="images/Apples2019.JPG?raw=true"/> Apple harvest that yielded ninety-four gallons of cider in 2019
 
 
 ---
