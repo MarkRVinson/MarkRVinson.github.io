@@ -1,8 +1,13 @@
 # Me
 ---
 ## Science
+  - ### Field Research
+  - ### Laboratory Work
+  - ### Data Visualization
+  - ### Publications
+## Home Life
 ---
-## Field Research 
+### Field Research 
 I have studied aquatic plants, invertebrates, and fish from caves, springs, rivers, lakes and wetlands in deserts, jungles, mountains, and the arctic. I have collaborated with scientists and led scientific expeditions throughout the United States, Canada, Pakistan, and Africa. I am comfortable in uncomfortable places.  
 <br>
 Along the Line of Control, Neelum Valley, Pakistan.<img src="images/IMG_0233.jpg?raw=true"/> <br>
@@ -14,7 +19,7 @@ Lake Superior fish collections, color coded by year. <br>
 [A view into a Lake Superior fish survey](https://www.youtube.com/watch?v=VpuPjxWyU7w) <br>
 
 ---
-## Data Visualization 
+### Data Visualization 
 Atractive data, be it sensible data frames or pretty plots, is a way of life I aspire to. Visual appeal increases engagement which parlays into greater comprehension and better decisions. 
 <img src="images/ns_os_wtemps3b.png?raw=true"/> [full screen view](images/ns_os_wtemps3b.png)
 
@@ -33,7 +38,7 @@ Atractive data, be it sensible data frames or pretty plots, is a way of life I a
 [A typical data talk, our 2019 Lake Superior fish survey results](/pdf/2019-12-26_LS-fish-status_trends.pdf) 
 
 ---
-## Data Visualization 
+### Data Visualization 
 Atractive data, be it sensible data frames or pretty plots, is a way of life I aspire to. Visual appeal increases engagement which parlays into greater comprehension and better decisions. 
 <img src="images/ns_os_wtemps3b.png?raw=true"/> [full screen view](images/ns_os_wtemps3b.png)
 
@@ -52,12 +57,12 @@ Atractive data, be it sensible data frames or pretty plots, is a way of life I a
 [A typical data talk, our 2019 Lake Superior fish survey results](/pdf/2019-12-26_LS-fish-status_trends.pdf) 
 
 ---
-## Publications
+### Publications
 [Publication list](/pdf/2019-12-27_MV-Publications.pdf) <br>
 <img src="images/MVpubs.png?raw=true"/>
 
 ---
-### Home life 
+## Home life 
 I find joy in chores and mountain bike riding with my dog.  <br> 
 <br>
 Kimber Vinson uncharacteristically relaxing<img src="images/KV2018.JPG?raw=true"/>
