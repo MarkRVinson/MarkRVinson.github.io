@@ -7,6 +7,8 @@ I have studied aquatic plants, invertebrates, and fish from caves, springs, rive
 <img src="images/FieldWork.png?raw=true"/> 
 [full screen view](images/FieldWork.png) Clockwise; Terrifying closed canopy jungle, Gabon, Africa. Slightly less terrifying open canopy jungle, Gabon, Africa. Prudoe Bay, Alaska. Neelum Valley, Pakistan. Beautiful child, Taobat, Pakistan. One of a hundred checkpoints along the Line of Control, Kashmir, Pakistan, there goes an afternoon or more. <br>
 <br>
+<img src="images/FieldFood.png?raw=true"/> 
+[full screen view](images/FieldFood.png) Clockwise; Fish head soup and plantains. Typical Gabon, Africa restaurant. French pastry shop at a Shell Oil camp, Gabon, Africa. Pastry shop, Kel, Pakistan. Spinach and leeks with naan, big mistake eating the cucumber sauce, Muzaffarabad, Pakistan. Goat party preperation, Taobat, Pakistan. <br>
 <br>
 <img src="images/MVwork.gif?raw=true"/> 
 [full screen view](images/MVwork.gif) Lake Superior fish collections, color coded by year. 
