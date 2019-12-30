@@ -21,7 +21,7 @@ I have studied aquatic plants, invertebrates, and fish from caves, springs, rive
 I have processed or overrseen the identification of more than 35,00 benthic invertebrate, zooplankton, and fish stomach content samples. I taught aquatic invertebrate biology at Utah State University. Stable istope sample preperation and fish aging are also present in my tool box. 
 <br>
 <img src="images/BugLab.png?raw=true"/> [full screen view](images/BugLab.png) 
-The BugLab, Utah State University, 1992-2008. Clockwise; Rio and I Desolation Canyon, Green River. Typical Green River invertebrate sample. The BugLab circa 2003. Doug Miller television interview 2005. ~22,000 archived invertebrate samples. <br>
+Images from the BugLab years at Utah State University, 1992-2008. Clockwise; Rio and I in Desolation Canyon, Green River. Typical lower Green River invertebrate sample. The BugLab circa 2003. Television interview with Doug Miller (SLC television personality). ~22,000 archived invertebrate samples. <br>
 
 <img src="images/LS_SiscowetCiscoSnack.jpg?raw=true"/> [full screen view](images/LS_SiscowetCiscoSnack.jpg)
 Lake Superior Siscowet Lake Trout Siscowet cisco snack 8 July 2017, 62% of siscowet's body length
