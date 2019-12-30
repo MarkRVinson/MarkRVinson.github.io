@@ -39,7 +39,7 @@ Atractive data, be it sensible data frames or pretty plots, is a way of life I a
 
 <img src="images/Animated_CurrentYear_Catch_map.gif?raw=true"/> [full screen view](images/Animated_CurrentYear_Catch_map.gif)
 
-<img src="images/LS_Lean-Siscowet-Diets.png?raw=true"/> [full screen view](LS_Lean-Siscowet-Diets.png)
+<img src="images/LS_Lean-Siscowet-Diets.png?raw=true"/> [full screen view](images/LS_Lean-Siscowet-Diets.png)
 
 [A typical data talk, our 2019 Lake Superior fish survey results](/pdf/2019-12-26_LS-fish-status_trends.pdf) 
 
@@ -68,7 +68,8 @@ I find joy in chores and mountain bike riding with my dog.  <br>
 
 <img src="images/Bees2018.JPG?raw=true"/> Early summer bee hives
 
-<img src="images/Apples2019.JPG?raw=true"/> Apple harvest that yielded ninety-four gallons of cider in 2019
+<img src="images/Apples2019.JPG?raw=true"/> 2019 Apple harvest that yielded ninety-four gallons of cider
+
 ---
 
 ---
