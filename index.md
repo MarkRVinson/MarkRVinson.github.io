@@ -1,6 +1,6 @@
-## Me
+# Me
 ---
-### Field Research 
+## Field Research 
 I have studied aquatic plants, invertebrates, and fish from caves, springs, rivers, lakes and wetlands in deserts, jungles, mountains, and the arctic. I have collaborated with scientists and led scientific expeditions throughout the United States, Canada, Pakistan, and Africa. I am comfortable in uncomfortable places.  
 <br>
 Along the Line of Control, Neelum Valley, Pakistan.<img src="images/IMG_0233.jpg?raw=true"/> <br>
