@@ -50,7 +50,7 @@ Atractive data, be it sensible data frames or pretty plots, is a way of life I a
 
 ---
 ### Home life 
-I find joy in chores and mountain bike riding with my dog.  <br> 
+Chores and mountain biking with my dog bring me joy.  <br> 
 <br>
 [<img src="images/KV2018.JPG?raw=true"/>](images/KV2018.JPG) Kimber Vinson uncharacteristically relaxing 
 
