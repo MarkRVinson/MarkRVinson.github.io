@@ -56,7 +56,7 @@ Chores and mountain biking with my dog bring me joy.  <br>
 
 [<img src="images/KV2019.jpg?raw=true"/>](images/KV2019.jpg) First tracks
 
-[<img src="images/MV_Cabin2018.JPG?raw=true"/>](images/MV_Cabin2018.JPG) The cabin down by the river
+[<img src="images/MV_Cabin2018.png?raw=true"/>](images/MV_Cabin2018.png) The cabin down by the river
 
 [<img src="images/Homestead2019.JPG?raw=true"/>](images/Homestead2019.JPG) The homestead
 
