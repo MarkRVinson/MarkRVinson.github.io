@@ -4,13 +4,12 @@ description: > # your text below (remove <br> elements if you don't need line br
   Hello, Bonjour, and Hola, <br>
   Welcome to my personal site. A few things to know about me: I find joy in Border Collies, fish, leftovers, 3rd hand clothes, snow, bikes, and data visualization; I am the Station Chief of the U.S. Geological Survery's Lake Superior Biological Station in Ashland, Wisconsin; I live at the end of a dirt road.  
   <br>
-  <br>
-  
+  <br> 
 location         : "Ashland, WI"
 googlescholar    : "https://scholar.google.com/citations?user=QMxU4nIAAAAJ&hl=en&oi=ao" 
 orcid            : "http://orcid.org/0000-0001-5256-9539"
 twitter          : "https://twitter.com/superiorliscous"
-
+<br>
 email            : "riolover@gmail.com"
 
 
