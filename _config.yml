@@ -10,5 +10,8 @@ description: > # your text below (remove <br> elements if you don't need line br
   <a href="http://orcid.org/0000-0001-5256-9539"> ORCid </a> 
   <br>  
   <a href="https://twitter.com/superiorliscous"> Twitter </a>
+  <br>
+  <a href="https://www.youtube.com/user/AshlandRiolover/"> YouTube </a> 
+ 
 theme: jekyll-theme-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
