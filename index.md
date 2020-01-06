@@ -4,9 +4,11 @@
 ### Field Research 
 I have studied aquatic plants, invertebrates, and fish from caves, springs, rivers, lakes and wetlands in deserts, jungles, mountains, and the arctic. I have collaborated with scientists and led scientific expeditions throughout the United States, Canada, Pakistan, and Africa. I am comfortable in uncomfortable places.  
 <br>
-[<img src="images/FieldWork.png?raw=true"/>](images/FieldWork.png) Clockwise; Terrifying closed canopy jungle, Gabon, Africa; Slightly less terrifying open canopy jungle, Gabon, Africa; Tundra stream near Prudoe Bay, Alaska; Village in the Neelum Valley, Pakistan; Beautiful child, Taobat, Pakistan; One of a hundred checkpoints along the Line of Control, Kashmir, Pakistan, there goes an afternoon or more. <br>
+[<img src="images/FieldWork.png?raw=true"/>](images/FieldWork.png) 
 <br>
-[<img src="images/FieldFood.png?raw=true"/>](images/FieldFood.png) Food from the field. Clockwise; Fish head soup, plantains. and a few Regab beers to wash it down, Gabon, Africa. Typical restaurant scene near Gamba, Gabon. French pastry shop at Yenzi Shell Oil Camp near the border of Gabon and the Republic of the Congo. Pastry shop in Kel, Pakistan. Spinach and leeks with naan near Muzaffarabad, Pakistan. A big mistake eating the cucumber sauce. Goat party preparation at Taobat, Pakistan at the end of the road in the Neelum Valley, Kashmir. <br>
+<br>
+[<img src="images/FieldFood.png?raw=true"/>](images/FieldFood.png) 
+<br>
 <br>
 [<img src="images/MVwork.gif?raw=true"/>](images/MVwork.gif) Lake Superior fish collections, color coded by year. 
 <br>
@@ -18,7 +20,7 @@ I have studied aquatic plants, invertebrates, and fish from caves, springs, rive
 I have processed or supervised the identification of more than 35,00 benthic invertebrate, zooplankton, and fish stomach content samples. I taught aquatic invertebrate taxonomy and biology at Utah State University. Stable istope sample preparation and fish aging are also present in my tool box. 
 <br>
 [<img src="images/BugLab.png?raw=true"/>](images/BugLab.png) 
-Images from the BugLab years at Utah State University, 1992-2008. Clockwise; Rio and I in Desolation Canyon, Green River. The BugLab circa 2003. Green River brown trout stomach content sampling. Leeches were always one of my favorite study animal. Blephaceridae Bibliocephla grandis, another favorite. 
+
 <br>
 
 ---
