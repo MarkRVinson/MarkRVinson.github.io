@@ -27,7 +27,7 @@ I have processed or supervised the identification of more than 35,00 benthic inv
 ### Data Visualization 
 Atractive data, be it sensible data frames or pretty plots, is a way of life I aspire to. Visual appeal increases engagement which parlays into greater comprehension and better decisions. Here's a few recent examples I've done with [Caroline Rosinski](https://twitter.com/carolineroz24)
 
-[<img src="images/ns_os_wtemps3b.png?raw=true"/>](images/ns_os_wtemps3a.png)
+[<img src="images/ns_os_wtemps3a.png?raw=true"/>](images/ns_os_wtemps3a.png)
 
 [<img src="images/ns_Lengths_Cisco_Vhistogram.png?raw=true"/>](images/ns_Lengths_Cisco_Vhistogram.png)
 
