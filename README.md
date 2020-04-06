@@ -3,7 +3,7 @@
 2. Project repositories, mostly on-going, but a few legacy projects as well
 
 ### Repositories
-1. RVCAT data summarization and presentation
-2. Trophic Ecology Chapter in Lake Charr book
+1. Lake Superior fish population and water temperature data summarization and presentation
+2. Lake Superior larval Ciscoe population dynamics and genetic project data, analyses, and presentation
 
 
