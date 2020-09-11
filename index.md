@@ -48,6 +48,7 @@ Atractive data, be it sensible data frames or pretty plots, is a way of life I a
 
 [<img src="images/MVpubs.png?raw=true"/>](images/MVpubs.png) <br>
 [Publication list](/pdf/2020-09-11_MV-Publications.pdf) 
+[CV](/pdf/Vinson_CV_Sep2020.pdf) 
 <br>
 
 ---
