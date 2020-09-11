@@ -50,7 +50,7 @@ Atractive data, be it sensible data frames or pretty plots, is a way of life I a
 [Publication list](/pdf/2020-09-11_MV-Publications.pdf) 
 <br>
 <br>
-[Full CV](/pdf/Vinson_CV_Sep2020.pdf) 
+[Full CV](/pdf/Vinson_CV_Sept2020.pdf) 
 <br>
 
 ---
