@@ -47,6 +47,7 @@ Atractive data, be it sensible data frames or pretty plots, is a way of life I a
 
 [A typical big data talk, The Lake Superior Biological Station's 2019 Lake Superior fish survey results](/pdf/2020_USGS_ SuperiorFishTrends.pdf) <br>
 <br>
+
 [A typical research topic talk, Lake Superior Ciscoe Recruitment](/pdf/2019_TNC_LS_Cisco.pdf) 
 <br>
 
