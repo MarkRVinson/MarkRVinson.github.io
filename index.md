@@ -75,13 +75,13 @@ Chores and mountain biking with my dog bring me joy.  <br>
 
 [<img src="images/Homestead2019.JPG?raw=true"/>](images/Homestead2019.JPG) The homestead
 
-[<img src="images/Chickens2019.JPG?raw=true"/>](images/Chickens2019.JPG) 2019 chickens
+[<img src="images/Chickens2019.JPG?raw=true"/>](images/Chickens2019.JPG) Coyote snacks
 
-[<img src="images/Greenhouse2019.JPG?raw=true"/>](images/Greenhouse2019.JPG) The greenhouse
+[<img src="images/Greenhouse2019.JPG?raw=true"/>](images/Greenhouse2019.JPG) Greenhouse
 
-[<img src="images/Bees2018.JPG?raw=true"/>](images/Bees2018.JPG) Bee hives
+[<img src="images/Bees2018.JPG?raw=true"/>](images/Bees2018.JPG) The apiary
 
-[<img src="images/Apples2019.JPG?raw=true"/>](images/Apples2019.JPG) 2019 apple harvest that yielded ninety-four gallons of cider
+[<img src="images/Apples2019.JPG?raw=true"/>](images/Apples2019.JPG) The number of apples it takes to make 100 gallons of cider
 
 ---
 
