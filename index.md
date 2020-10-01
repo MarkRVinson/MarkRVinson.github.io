@@ -31,7 +31,7 @@ Atractive data, be it sensible data frames or pretty plots, is a way of life I a
 
 [<img src="images/ns_Lengths_Cisco_Vhistogram.png?raw=true"/>](images/ns_Lengths_Cisco_Vhistogram.png)
 
-[<img src="images/LakeSuperior2014Plastics.png?raw=true"/>](LakeSuperior2014Plastics.png)
+[<img src="images/LakeSuperior2014Plastics.png?raw=true"/>](images/LakeSuperior2014Plastics.png)
 
 [<img src="images/ns_os_biomass_CurrentYear_sankey.png?raw=true"/>](images/ns_os_biomass_CurrentYear_sankey.png)
 
